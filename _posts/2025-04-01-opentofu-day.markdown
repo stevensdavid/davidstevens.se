@@ -14,7 +14,7 @@ Are you a platform engineer feeling overwhelmed by the amount of support you nee
 
 [3. Making Infrastructure-as-Code Better with OpenPolicyAgent (OPA)](#making-infrastructure-as-code-better-with-openpolicyagent-opa)
 
-[4. Conclusions](#conclusions)
+[4. Conclusion](#conclusion)
 
 [5. Resources](#resources)
 
