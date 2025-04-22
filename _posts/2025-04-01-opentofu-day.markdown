@@ -18,7 +18,7 @@ Are you a platform engineer feeling overwhelmed by the amount of support you nee
 
 [5. Resources](#resources)
 
-In this post, I'm going to be detailing how we use [CDK for Terraform](https://github.com/hashicorp/terraform-cdk) and TypeScript to improve the developer experience of writing infrastructure-as-code, and Open Policy Agent to help developer's avoid common security and best-practice gotchas at [TV4 Play](https://www.tv4play.se/) and [MTV Katsomo](https://www.mtv.fi/). This is a text version of a talk that I'm going to present at OpenTofu day EU 2025. If you prefer to watch the talk, I'll update this post with a link once it's available.
+In this post, I'm going to be detailing how we use [CDK for Terraform](https://github.com/hashicorp/terraform-cdk) and TypeScript to improve the developer experience of writing infrastructure-as-code, and Open Policy Agent to help developer's avoid common security and best-practice gotchas at [TV4 Play](https://www.tv4play.se/) and [MTV Katsomo](https://www.mtv.fi/). This is a text version of a talk that I'm going to present at OpenTofu day EU 2025. If you prefer to watch the talk, [it is available on YouTube here](https://youtu.be/Xpq92fpuw0I?si=6tnOYATxzlP7te8r).
 
 # Who are you, anyways?
 
